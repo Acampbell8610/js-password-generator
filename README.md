@@ -12,7 +12,12 @@ This is a password generator that gives you the option of number of characters,l
 
 
 ## Instalation
-To install this projects locally use git bash
+To install this projects locally use git bash(https://github.com/Acampbell8610/js-password-generator-Alex-Campbell)
+
+Open using Visual Studio Code
+
+
+Live URL is :(https://acampbell8610.github.io/js-password-generator-Alex-Campbell/)
 
 
 ## Usage
