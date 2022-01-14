@@ -1,16 +1,18 @@
 # Password Generator 
 
 ## Description
-
+This is a password generator that gives you the option of number of characters,lowercase letters, upercase letters, special characters, and numbers. 
 
 
 
 ## Technologies
-
+* HTML
+* CSS
+* Javascript
 
 
 ## Instalation
-
+To install this projects locally use git bash
 
 
 ## Usage
